@@ -34,4 +34,4 @@ Apex Legendsではカジュアルマッチとランクマッチという2つの�
 パンクズリスト(pundit)
 
 ## 画面遷移図
-https://xd.adobe.com/view/62f1bead-866a-4c64-b2e1-8174c44b4a99-37a2/
+https://xd.adobe.com/view/bf779197-1ece-47ba-b8fe-cb15d6ea4e12-ea24/
