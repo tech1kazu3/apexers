@@ -45,3 +45,6 @@ Apex Legendsではカジュアルマッチとランクマッチという2つの�
 
 ## 画面遷移図
 https://xd.adobe.com/view/42ae321a-6261-468a-bfe6-7888627d9010-17fd/
+
+##　ER図
+https://drive.google.com/file/d/1hItMCzbz5tN-WDMvY08wJ5MQud7l7VZB/view?usp=sharing
